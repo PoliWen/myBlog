@@ -29,7 +29,7 @@ modifier可以理解为对block或者element的修饰，比如修饰form__submit
 
 ### BEM的实践
 
-![image-20220917171022400](C:\Users\kingw\AppData\Roaming\Typora\typora-user-images\image-20220917171022400.png)
+![image-20220917171022400](https://raw.githubusercontent.com/PoliWen/myBlog/master/example/src/assets/images/dialog.png)
 
 以实现一个简单dialog组件为例，使用普通的BEM方法实现如下
 
